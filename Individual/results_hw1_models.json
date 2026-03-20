@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-03-20T10:13:48.273049",
+  "prompt": "You are troubleshooting a beginner-friendly app for car maintenance.\nAsk for an engine-bay photo and then guide the user to locate and identify:\n1) the spark plug,\n2) the battery,\n3) the oil fill cap.\n\nRequirements:\n- Ask 2-3 clarifying questions first.\n- Then list the next steps as a short checklist.\n- Use safety disclaimers briefly (1-2 sentences).\n- Output must be in plain text.",
+  "results": [
+    {
+      "call_index": 1,
+      "model": "gemini-3-flash-preview",
+      "input_tokens": 101,
+      "output_tokens": 234,
+      "total_tokens": 764,
+      "latency_ms": 4976.46,
+      "cost_paid_tier_reference": 0.0001037,
+      "response_preview": "Hello! I am here to help you get familiar with your vehicle's engine bay. To provide the most accurate guidance, I have a few quick questions:\n\n1. What is the make, model, and year of your car?\n2. Are you looking to perform a specific maintenance task today, or are you just learning the layout?\n3. D"
+    },
+    {
+      "call_index": 2,
+      "model": "gemini-3.1-flash-lite-preview",
+      "input_tokens": 101,
+      "output_tokens": 267,
+      "total_tokens": 368,
+      "latency_ms": 1891.551,
+      "cost_paid_tier_reference": 0.0001169,
+      "response_preview": "To help you identify these components accurately, I need a little more information about your vehicle. Please answer the following:\n\n1. What is the year, make, and model of your car?\n2. Are you experiencing a specific mechanical issue, or are you just performing a routine visual inspection?\n3. Once "
+    }
+  ]
+}
