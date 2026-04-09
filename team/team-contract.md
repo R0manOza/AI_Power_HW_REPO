@@ -8,7 +8,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Team Name** | Car Helper AI |
+| **Team Name** | Pocket Mechanics |
 | **Repository URL** | will add team repo url in a moment |
 | **Date Signed** | 2026-03-13 |
 
